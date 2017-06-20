@@ -1,0 +1,16 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"DESIGNER";"PROD_ID";"VALUE";"VERSION";
+"1";"";"CONN_021X02_NO_SILK";"1X02_NO_SILK";"J15";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";
+"2";"";"CONN_06NO_SILK_FEMALE_PTH";"1X06_NO_SILK";"J3, J5";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"CONN-08437";"";"";
+"1";"";"CONN_07NO_SILK";"1X07_NO_SILK";"J4";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";
+"1";"";"CONN_08NO_SILK_FEMALE_PTH";"1X08_NO_SILK";"J1";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"CONN-08438";"";"";
+"12";"";"PINHD-1X1";"1X01";"JP1, JP2, JP3, JP4, JP5, JP6, JP7, JP8, JP9, JP10, JP11, JP12";"PIN HEADER";"";"";"";"";
+"6";"0.1uF";"0.1UF-0603-25V-5%";"0603";"C2, C3, C4, C6, C8, C9";"0.1µF ceramic capacitors";"";"CAP-08604";"0.1uF";"";
+"3";"100uF";"100UF-POLAR-25V-20%(ELEC)";"PANASONIC_D";"C1, C5, C7";"100µF polarized capacitors";"";"CAP-12547";"100uF";"";
+"24";"1A/40V/500mV";"DIODE-SCHOTTKY-SS14";"SMA-DIODE";"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24";"Schottky diode";"";"DIO-08053";"1A/40V/500mV";"";
+"6";"74HC1G04";"74HC1G04";"SOT353";"U4, U5, U6, U7, U9, U10";"Single Inverter";"";"COMP-08268";"74HC1G04";"";
+"1";"ARDUINO";"ARDUINO_UNO_R3_SHIELDNOLABELS";"UNO_R3_SHIELD_NOLABELS";"U1";"Arduino R3 Shield Footprint";"";"";"";"";
+"2";"FIDUCIALUFIDUCIAL";"FIDUCIALUFIDUCIAL";"MICRO-FIDUCIAL";"FD1, FD2";"Fiducial Alignment Points";"";"";"";"";
+"1";"FRAME-LETTER";"FRAME-LETTER";"CREATIVE_COMMONS";"FRAME1";"Schematic Frame - Letter";"";"";"";"";
+"1";"FRAME-LETTERNO_PACKAGE";"FRAME-LETTERNO_PACKAGE";"DUMMY";"FRAME2";"Schematic Frame - Letter";"Nobody";"";"";"v01";
+"3";"L298";"L298_SMD_W_PAD";"POWERSO20_L298_PAD";"U2, U3, U8";"Full-bridge power driver IC";"";"IC-09133";"L298";"";
+"2";"STAND-OFF";"STAND-OFF";"STAND-OFF";"H1, H2";"Stand Off";"";"";"";"";
